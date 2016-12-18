@@ -1,0 +1,66 @@
+.canvasWrapper{
+    position: relative;
+
+}
+
+.canvasWrapper canvas, #overlay,#overlay1,#overlay2,#overlay3,#overlay4,#overlay5 {
+    position: absolute;
+}
+#overlay,#overlay1,#overlay2,#overlay3,#overlay4,#overlay5{
+    display: block;
+}
+#overlay{
+
+    padding-top: 9%;
+    padding-left: 50%;
+}
+.content-header{
+    color: #039348;
+}
+#overlay1 {
+    padding-top: 33%;
+    float: right;
+    direction: rtl;
+    z-index: 1;
+    left: 83%;
+    width: 273px;
+}
+#overlay2{
+    padding-top: 45%;
+    padding-left: 24%;
+}
+
+#overlay3{ padding-top: 33%;
+    float: right;
+    direction: rtl;
+    z-index: 1;
+    left: 83%;
+    width: 273px;}
+#overlay4{}
+#overlay5{}
+
+@media (max-width:412px ) {
+
+    #overlay1 {
+        padding-top: 44%;
+        left: 106%;
+    }
+}
+    /*#overlay2 {*/
+        /*padding-top: 73%;*/
+        /*padding-left: 40%;*/
+    /*}*/
+/*}*/
+/*@media (min-width: 1200px) {*/
+    /*#overlay1 {*/
+        /*padding-top: 29%;*/
+        /*left: 70%;*/
+    /*}*/
+/*}*/
+
+
+/* Footer */
+#footer{
+    background-color: black;
+    min-height: 30%;
+}

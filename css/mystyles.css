@@ -1,0 +1,280 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px;
+}
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+.row-footer {
+    margin: 0px auto;
+    padding: 20px 0px;
+    background-color: #AfAfAf;
+}
+.jumbotron {
+    margin: 0px auto;
+    padding: 0px 0px;
+    background: #7986CB;
+    color: floralwhite;
+}
+
+.navbar-inverse {
+    background: linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,1)); 
+    color: #ffffff;
+    border: none;
+    border-radius: 0px;
+}
+.navbar-inverse .navbar-nav > .active > a {
+    background: #1a237e;
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .active > a:hover {
+    background: #1a237e;
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .active > a:focus {
+    background: #1a237e;
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a {
+    background: #1a237e;
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a:hover {
+    background: #1a237e;
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a:focus {
+    background: #1a237e;
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+    background-color: #303f9f;
+    color: #fff;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: #000000;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+    background-color: #303f9f;
+    color: #fff;
+}
+.navbar-inverse .navbar-nav > li > a{
+    color: #fff;
+    font-weight:700;
+    margin-top: 8px;
+}
+.sideLink{
+    font-size: 12px;
+}
+
+address {
+    color: #0f0f0f;
+    font-size: 80%;
+    margin: 0px;
+}
+body {
+    align: center;
+    z-index: 0;
+}
+html,
+body {
+    height: 100%;
+}
+
+.carousel{
+    height: 35%;
+    min-height: 300px;
+}
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+.carousel-indicators{
+    left: 0px;
+    margin: 0;
+    width: 100%;
+    text-align: right;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.carousel-caption{
+    left: 0px;
+    margin: 0;
+    width: 100%;
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+
+
+}
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+footer {
+    margin: 50px 0;
+}
+.tab-content {
+    border-bottom: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    padding: 10px;
+}
+.affix {
+    top: 100px;
+}
+h2{
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+
+.parent {
+    display:table;
+    table-layout: fixed;
+}
+
+.child {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.pull-bottom {
+    display: inline-block;
+    vertical-align: bottom;
+    float: none;
+}
+.row-height {
+    display: table;
+    table-layout: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+.col-height {
+    display: table-cell;
+    float: none;
+    height: 100%;
+}
+.col-top {
+    vertical-align: top;
+}
+.col-middle {
+    vertical-align: middle;
+    display: table;
+    table-layout: fixed;
+    height: 100%;
+    width: 100%;
+}
+.col-bottom {
+    vertical-align: bottom;
+}
+
+
+@media(min-width:992px){
+    .outer {
+        display : flex;
+        align-items : center;
+    }
+}
+.alligned:nth-of-type(1){
+    padding-left: 10%;
+}
+.alligned:nth-of-type(2){
+    padding-right: 10%;
+}
+@media(max-width:992px){
+    .alligned {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+
+.divfullbg{
+    background: url("../img/cow.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.home-img1{
+    width:auto;
+    height: 220px;
+    margin-left: 14%;
+    max-width: 100%;
+    max-height: auto;
+}
+.home-img2{
+    width:100%;
+    height: auto;
+   /* max-width: 100%;
+    max-height: auto;
+    */
+}
+.sec3desc1{
+    font-size:11px;
+}
+.sec3desc2{
+    font-size:11px;
+    text-align: center;
+}
+.sec3Head1{
+    margin-top: 15%;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.sec3Head2{
+    margin-top: 15%;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.sec4text{
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.sec4main1{left:10%}
+.sec4main1sub{text-align: right;left:5%}
+.sec4main2{right: 7%;}
+.sec4main2sub{text-align: left;right: 8%}
+
+@media(max-width:992px){
+ .sec4main1{left:2%}
+.sec4main1sub{text-align: right;left:5%}
+.sec4main2{right: 4%;}
+.sec4main2sub{text-align: left;right: 0}
+}
+@media(max-width:768px){
+ .sec4main1{left:2%}
+.sec4main1sub{text-align: right;left:5%}
+.sec4main2{right: 4%;}
+.sec4main2sub{text-align: left;right: 0}
+}
+.img-play-final{
+    width: 70px;
+    height: auto;
+}
