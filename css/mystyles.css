@@ -229,8 +229,8 @@ h2{
 .home-img2{
     width:100%;
     height: auto;
-   /* max-width: 100%;
-    max-height: auto;
+    /* max-width: 100%;
+     max-height: auto;
     */
 }
 .sec3desc1{
@@ -264,18 +264,53 @@ h2{
 .sec4main2sub{text-align: left;right: 8%}
 
 @media(max-width:992px){
- .sec4main1{left:2%}
-.sec4main1sub{text-align: right;left:5%}
-.sec4main2{right: 4%;}
-.sec4main2sub{text-align: left;right: 0}
+    .sec4main1{left:2%}
+    .sec4main1sub{text-align: right;left:5%}
+    .sec4main2{right: 4%;}
+    .sec4main2sub{text-align: left;right: 0}
 }
 @media(max-width:768px){
- .sec4main1{left:2%}
-.sec4main1sub{text-align: right;left:5%}
-.sec4main2{right: 4%;}
-.sec4main2sub{text-align: left;right: 0}
+    .sec4main1{left:2%}
+    .sec4main1sub{text-align: right;left:5%}
+    .sec4main2{right: 4%;}
+    .sec4main2sub{text-align: left;right: 0}
 }
 .img-play-final{
     width: 70px;
     height: auto;
+}
+
+
+
+#mycarousel2 {
+    background: #004196;
+}
+#mycarousel2 .item {
+    height: 300px;
+}
+#mycarousel2 .item img {
+    left: 0;
+    min-height: 300px;
+    position: absolute;
+    top: 0;
+}
+
+.carousel-inner-mk{
+    overflow: unset !important;
+}
+.btn-primary-inline {
+    color: green;
+    border: 1px solid blue;
+}
+.mknewcarousel{
+    left: 13%;
+    width: 80%;
+    max-width: 100%
+}
+.imgProduct{
+    height: 35%;
+    width: auto;
+}
+.outerMK{
+    align-items: flex-end;
 }
