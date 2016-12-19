@@ -913,3 +913,15 @@ form {
         background-size: 100% 100%;
     }
 }
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/AvenirNextLTPro-Bold.otf);
+
+}
+h1,h2{
+    font-family: myFirstFont !important;
+}
+body{
+    font-family:myFirstFont;
+}
