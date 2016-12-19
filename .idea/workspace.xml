@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d868f57-0a77-4abd-ac5c-bf0ce660d860" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lives-stock.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style-all.css" afterPath="$PROJECT_DIR$/css/style-all.css" />
     </list>
     <ignored path="Dina-HTML.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="live-stock.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="live-stock.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/live-stock.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="873">
@@ -71,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style-all.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style-all.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style-all.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19844">
-              <caret line="922" column="40" selection-start-line="922" selection-start-column="40" selection-end-line="922" selection-end-column="40" />
+            <state relative-caret-position="383">
+              <caret line="838" column="16" selection-start-line="838" selection-start-column="16" selection-end-line="838" selection-end-column="16" />
               <folding>
                 <element signature="e#10150#10272#0" expanded="false" />
                 <element signature="e#10313#10383#0" expanded="false" />
@@ -134,10 +134,10 @@
         <option value="$PROJECT_DIR$/product.html" />
         <option value="$PROJECT_DIR$/lives-stock.html" />
         <option value="$PROJECT_DIR$/our-story.html" />
-        <option value="$PROJECT_DIR$/css/style-all.css" />
         <option value="$PROJECT_DIR$/css/mystyles.css" />
         <option value="$PROJECT_DIR$/find-us.html" />
         <option value="$PROJECT_DIR$/live-stock.html" />
+        <option value="$PROJECT_DIR$/css/style-all.css" />
       </list>
     </option>
   </component>
@@ -298,18 +298,18 @@
       <workItem from="1482095899307" duration="2328000" />
       <workItem from="1482101888668" duration="522000" />
       <workItem from="1482140278594" duration="681000" />
-      <workItem from="1482141347469" duration="467000" />
+      <workItem from="1482141347469" duration="1166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17475000" />
+    <option name="totallyTimeSpent" value="18174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -702,20 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-all.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19844">
-          <caret line="922" column="40" selection-start-line="922" selection-start-column="40" selection-end-line="922" selection-end-column="40" />
-          <folding>
-            <element signature="e#10150#10272#0" expanded="false" />
-            <element signature="e#10313#10383#0" expanded="false" />
-            <element signature="e#10424#10453#0" expanded="false" />
-            <element signature="e#10501#10614#0" expanded="false" />
-            <element signature="e#10661#10774#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/mystyles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1474">
@@ -754,6 +740,20 @@
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="838" column="16" selection-start-line="838" selection-start-column="16" selection-end-line="838" selection-end-column="16" />
+          <folding>
+            <element signature="e#10150#10272#0" expanded="false" />
+            <element signature="e#10313#10383#0" expanded="false" />
+            <element signature="e#10424#10453#0" expanded="false" />
+            <element signature="e#10501#10614#0" expanded="false" />
+            <element signature="e#10661#10774#0" expanded="false" />
           </folding>
         </state>
       </provider>
