@@ -278,3 +278,18 @@ h2{
     width: 70px;
     height: auto;
 }
+
+
+
+#mycarousel2 {
+  background: #1a237e;
+}
+#mycarousel2 .item {
+  height: 300px;
+}
+#mycarousel2 .item img {
+  left: 0;
+  min-height: 300px;
+  position: absolute;
+  top: 0;
+}
