@@ -115,6 +115,20 @@ body {
 
 
 }
+.carousel-indicators-mk{
+    padding-top: 3%;
+    padding-bottom: 7%;
+    text-align: center;
+}
+
+.btn-primary-outline-green-blue {
+    background-color: transparent;
+    border: 1px solid blue;
+    color: green;
+    width: auto;
+    padding: 7px;
+
+}
 /* Background images are set within the HTML using inline CSS, not here */
 
 .fill {
