@@ -385,3 +385,6 @@ h2{
     color: #049447;
     font-weight: normal;
 }
+.row-mk-nopad{
+    margin: 0 !important;
+}
