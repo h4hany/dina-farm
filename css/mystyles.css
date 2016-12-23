@@ -347,3 +347,44 @@ h2{
 .outerMK{
     align-items: flex-end;
 }
+
+
+.padding3{
+    padding-left: 2px;
+    padding-right: 2px;
+
+}
+.panel-default-mk {
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 8px;
+}
+.panel-heading-mk{
+    background-color: #013f99 !important;
+    border: none !important;
+    color: #fff !important;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.panel-body-mk{
+    padding: 0;
+    background-color: #f3f3f3;
+
+}
+.panel-body-mk > p{
+    padding: 20px;
+}
+.panel-footer-mk {
+    background-color: #f3f3f3;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border:none;
+    padding: 10px 15px;
+    text-align: right;
+    color: #049447;
+    font-weight: normal;
+}
+.row-mk-nopad{
+    margin: 0 !important;
+}
