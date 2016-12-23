@@ -20,6 +20,25 @@
     color: floralwhite;
 }
 
+.white {
+    background: #fff !important; 
+    color: #000 !important;
+    border: none;
+    border-radius: 0px;
+}
+.white .navbar-nav > li > a{
+    color: #000 !important;
+    font-weight:normal !important;
+}
+.white .navbar-toggle .icon-bar{
+     color: #000 !important;
+     background: #000 !important; 
+     
+}
+
+.white .navbar-toggle:hover, .white .navbar-toggle:focus{
+    background: #fff !important; 
+}
 .navbar-inverse {
     background: linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,1)); 
     color: #ffffff;
@@ -387,4 +406,12 @@ h2{
 }
 .row-mk-nopad{
     margin: 0 !important;
+}
+
+.farm-header-img{
+     display: inline;
+     width: 90%;
+}
+.farm-header-div{
+    text-align: center;
 }
