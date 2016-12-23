@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d868f57-0a77-4abd-ac5c-bf0ce660d860" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/product (another copy).html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/mystyles.css" afterPath="$PROJECT_DIR$/css/mystyles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product (copy).html" afterPath="$PROJECT_DIR$/product (copy).html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product.html" afterPath="$PROJECT_DIR$/product.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/product (copy).html" afterPath="" />
     </list>
     <ignored path="Dina-HTML.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,16 +55,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
               <caret line="276" column="30" selection-start-line="276" selection-start-column="30" selection-end-line="276" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product (copy).html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product (copy).html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="418" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -320,12 +306,12 @@
       <workItem from="1482101888668" duration="522000" />
       <workItem from="1482140278594" duration="681000" />
       <workItem from="1482141347469" duration="7748000" />
-      <workItem from="1482158939510" duration="65000" />
+      <workItem from="1482158939510" duration="1346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24821000" />
+    <option name="totallyTimeSpent" value="26102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
