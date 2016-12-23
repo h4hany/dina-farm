@@ -925,3 +925,26 @@ h1,h2{
 body{
     font-family:myFirstFont;
 }
+
+
+.left{
+    float:left;
+    margin-top: 15%;
+}
+.right{
+    float: right;
+    margin-top: 10%;
+}
+.custom-live-stock2-container img{
+    max-width:100%
+}
+.custom-live-stock2-container h1{
+    color: blue;
+    max-width: 63%;
+}
+.top-plus{
+    margin-top: 6%;
+}
+.top-minus{
+    margin-top: -7%;
+}
